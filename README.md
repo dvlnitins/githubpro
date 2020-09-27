@@ -2,7 +2,9 @@
 
 A better look at your revamped GitHub repository stats and profile!
 
-![Demo](https://github.com/dvlnitins/githubpro/blob/master/static/og.png)
+![Screenshot](https://github.com/dvlnitins/githubpro/blob/master/static/og.png)
+
+[LIVE](https://githubpro.vercel.app)
 
 ## Getting Started
 
